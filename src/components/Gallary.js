@@ -392,7 +392,7 @@ const Gallary = () => {
             height="23"
             viewBox="0 0 47 23"
             fill="none"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
           >
             <path d="M1 1L23.5 22L46 1" stroke="black"></path>
           </svg>
